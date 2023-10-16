@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Resume and Job Description</title>
+</head>
+<body>
+    <h1>Upload Resume and Job Description</h1>
+
+    <form action="/" method="post" enctype="multipart/form-data">
+        <label for="resume">Upload Resume (txt, doc, docx or pdf file):</label><br>
+        <input type="file" id="resume" name="resume"><br><br>
+
+        <label for="job_description">Copy-paste Job Description:</label><br>
+        <textarea id="job_description" name="job_description" rows="10" cols="50"></textarea><br><br>
+
+        <input type="submit" value="Compare">
+    </form>
+</body>
+</html>
