@@ -19,7 +19,7 @@ This application utilizes Flask, a Python web framework, to create a simple web 
 - **Upload Resume and Job Description:**
   Users can upload their resume and copy-paste a job description through the provided interface.
 
-- **Resume and job post comparaison:**
+- **Resume and job post comparison:**
   The application uses OpenAI's ChatGPT to compare how well the resume matches the job description.
 
 ## Installation
