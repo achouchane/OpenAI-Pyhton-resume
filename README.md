@@ -1,6 +1,6 @@
 # Resume Matching Check with OpenAI ChatGPT
 
-This Python web application allows users to check if their resume is adequate for a given job description. The application uses OpenAI's ChatGPT, a language generation model, to compare the resume with the job description, providing a match score to indicate how well the resume fits the job requirements.
+This Python web application allows users to check if their resume is adequate for a given job description. The application uses OpenAI's ChatGPT, a language generation model, to compare the resume with the job description, providing a comparaison of how well the resume fits the job requirements.
 
 ## Table of Contents
 
@@ -19,8 +19,8 @@ This application utilizes Flask, a Python web framework, to create a simple web 
 - **Upload Resume and Job Description:**
   Users can upload their resume and copy-paste a job description through the provided interface.
 
-- **AI-Powered Match Score:**
-  The application uses OpenAI's ChatGPT to generate a match score indicating how well the resume matches the job description.
+- **Resume and job post comparaison:**
+  The application uses OpenAI's ChatGPT to compare how well the resume matches the job description.
 
 ## Installation
 
