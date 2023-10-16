@@ -26,5 +26,5 @@ This application utilizes Flask, a Python web framework, to create a simple web 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/achouchane/OpenAI-Pyhton-resume.git
+   git clone https://github.com/achouchane/OpenAI-Python-resume.git
    cd your_repository
